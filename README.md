@@ -86,9 +86,41 @@ Deadlock_Toolkit/
 
 ## 📷 Screenshots
 
-*(Add screenshots of your app here)*
+### 🖥️ Application Interface
+![Home](images/home.png)
 
----
+### ⚙️ Configuration Panel
+![Config](images/home0.5.png)
+
+### 📊 Allocation Matrix
+![Matrix](images/home1.png)
+
+### 📈 Graph View
+![Graph](images/home2.png)
+
+### 🔍 Detection Result
+![Detection](images/home4.png)
+
+### 🔄 Recovery Output
+![Recovery](images/home5.png)
+
+### 🧪 Simulation View
+![Simulation](images/home6.png)
+
+### 📌 Additional View 1
+![Extra1](images/home7.png)
+
+### 📌 Additional View 2
+![Extra2](images/home8.png)
+
+### 📌 Additional View 3
+![Extra3](images/home9.png)
+
+### 📌 Additional View 4
+![Extra4](images/home10.png)
+
+### 📌 Additional View 5
+![Extra5](images/home11.png)
 
 ## 🌐 Future Enhancements
 
