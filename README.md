@@ -1,2 +1,18 @@
-# Deadlock_Toolkit
-Create a toolkit that detects, prevents, and recovers from deadlocks in real-time. The system should implement algorithms like Banker's Algorithm and display resource allocation graphs for clarity. Include a feature for simulating deadlock scenarios with custom user inputs.
+# Deadlock Prevention & Recovery Toolkit
+
+## 📌 Overview
+This project is a Streamlit-based interactive toolkit designed to demonstrate:
+- Deadlock Detection
+- Deadlock Prevention
+- Deadlock Recovery
+
+## ⚙️ Technologies Used
+- Python
+- Streamlit
+- NumPy
+- Pandas
+- Plotly
+
+## 🚀 How to Run
+```bash
+streamlit run app.py
